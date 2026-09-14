@@ -2,6 +2,7 @@ const express = require("express");
 const crypto = require("crypto");
 
 const app = express();
+app.use(express.static("public"));
 const PORT = process.env.PORT || 10000;
 
 const CLIENT_KEY = process.env.TIKTOK_CLIENT_KEY;
