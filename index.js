@@ -43,6 +43,8 @@ app.get("/", (req, res) => {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-adsense-account" content="ca-pub-4200131324754790">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4200131324754790"
+     crossorigin="anonymous"></script>
 <title>Jontez Creator Hub</title>
 
 <style>
